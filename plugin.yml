@@ -1,0 +1,9 @@
+name: Minetopia
+main: nl.MaikyP.Minetopia.Main
+version: 1.0
+author: MaikyP
+website: https://www.spigotmc.org/members/boekenkast.217277/
+commands:
+  minetopia:
+    description: Standaard command.
+    aliases: [mt, minet, mtopia]
